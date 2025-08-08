@@ -3,7 +3,7 @@
 A web-based AI tool that analyzes resumes and job descriptions using Natural Language Processing (NLP) and provides intelligent feedback on resume-job matching. Built with Streamlit, this tool helps users optimize their resumes for specific job roles.
 
 # 🚀 Live Demo
-[🔗 Click here to try it live on Streamlit Cloud](https://huggingface.co/spaces/Prakhar-core7/Resume-Analyser)
+[🔗 Click here to try it live on Hugging Face](https://huggingface.co/spaces/Prakhar-core7/Resume-Analyser)
 
 ## 📌 Features
 - 🧠 AI-Powered Resume Matching – Compares your resume with a job description using NLP
